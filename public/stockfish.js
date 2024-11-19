@@ -1,0 +1,1 @@
+// Stockfish WebAssembly worker code will be copied here
