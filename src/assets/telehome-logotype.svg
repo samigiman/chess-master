@@ -1,0 +1,9 @@
+<svg width="640" height="160" viewBox="0 0 640 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="160" height="160" rx="52" fill="#E11F4F"/>
+  <circle cx="80" cy="52" r="24" fill="#FFFFFF"/>
+  <path d="M36 106C46 134 66 146 80 146C94 146 114 134 124 106C112 94 95 88 80 88C65 88 48 94 36 106Z" fill="#0D0B14"/>
+  <g font-family="'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="68" fill="#0A0A0B">
+    <text x="188" y="112">telehome</text>
+  </g>
+  <circle cx="598" cy="108" r="10" fill="#E11F4F"/>
+</svg>
